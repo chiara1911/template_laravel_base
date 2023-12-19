@@ -42,4 +42,13 @@ npm install --save @fortawesome/fontawesome-free
 
 #copio la cartella dei webfont e se voglio la rinomino
 
+
+#comandi git
+
+git init
+git add .
+git commit -m "first commit"
+npm
+git remote add origin your_git_url
+git push -u origin main
 ```
